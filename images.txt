@@ -1,2 +1,2 @@
 itzg/minecraft-server:2024.7.2-java17-graalvm
-docker pull itzg/minecraft-server:2024.7.2-java21-graalvm
+itzg/minecraft-server:2024.7.2-java21-graalvm
