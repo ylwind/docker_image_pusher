@@ -1,2 +1,7 @@
 itzg/minecraft-server:2024.7.2-java17-graalvm
 itzg/minecraft-server:2024.7.2-java21-graalvm
+getsentry/sentry:24.7.1
+getsentry/snuba:24.7.1
+getsentry/relay:24.7.1
+getsentry/symbolicator:24.7.1
+getsentry/vroom:24.7.1
