@@ -5,3 +5,4 @@ getsentry/snuba:24.7.1
 getsentry/relay:24.7.1
 getsentry/symbolicator:24.7.1
 getsentry/vroom:24.7.1
+ghcr.io/beck-8/subs-check
